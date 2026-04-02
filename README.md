@@ -6,7 +6,7 @@ A Microsoft Excel project covering full data preparation and dashboard creation 
 
 ## 📌 Overview
 
-This project demonstrates an end-to-end analytics workflow built entirely in Microsoft Excel — from raw data cleaning through pivot analysis to an interactive dashboard. The dataset captures bike sales records and provides insight into the types of customers most likely to purchase a bike.
+This project demonstrates an end-to-end analytics workflow built entirely in Microsoft Excel, from raw data cleaning through pivot analysis to an interactive dashboard. The dataset captures bike sales records and provides insight into the types of customers most likely to purchase a bike.
 
 ---
 
